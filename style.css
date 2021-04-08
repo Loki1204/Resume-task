@@ -1,0 +1,61 @@
+.allBox{
+    margin-top: 30px;
+margin-left: 200px;
+margin-right: 200px;
+}
+
+
+.box{
+    background-color: gray;
+    height: 200px;
+}
+
+.box1{
+    height: 50px;
+    background-color:whitesmoke;
+}
+
+.box2{
+    height: 50px;
+    background-color: gray;
+}
+
+.columnDivide{
+    margin-top: 50px;
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: solid gray 2px;
+}
+
+.name{
+    height: 70px;
+    width: 500px;
+    background-color: yellowgreen;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 150px;
+    left: 200px;
+}
+
+.box img{
+    border: yellowgreen dotted 8px;
+    border-radius: 300px;
+    position: relative;
+    top: 20px;
+    left: 350px;
+}
+.box2 p{
+    background-color: yellowgreen;
+    font-size: 70px;
+    width: 500px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    bottom: 100px;
+    left: 220px;
+}
+
+input {
+    margin: .4rem;
+}
+
